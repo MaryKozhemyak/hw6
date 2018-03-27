@@ -12,4 +12,7 @@
 ![](https://github.com/MaryKozhemyak/hw6/blob/master/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%204.PNG)
 ## Задание 5
 ![](https://github.com/MaryKozhemyak/hw6/blob/master/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%205%D0%B0..PNG)
-
+Глагол, с которым могут употребляться оба слова: encourage 
+Глагол, с которым может употребляться aid: abet
+Глагол, с которым может употребляться assist: meet 
+![]()
